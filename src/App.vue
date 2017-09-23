@@ -1,5 +1,5 @@
 <template>
-    <div id="app2">
+    <div id="app">
         <app-header></app-header>
         <app-content></app-content>
         <app-footer></app-footer>
@@ -12,8 +12,12 @@
     import AppFooter from './layout/AppFooter.vue'
 
     export default {
-        components:{
+        components: {
             AppHeader, AppContent, AppFooter
+        },
+        created:function () {
+            Materialize.toast('Materialize Running', 1000),
+                Materialize.modal();
         }
     }
 </script>

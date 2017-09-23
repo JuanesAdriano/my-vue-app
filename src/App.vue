@@ -20,7 +20,7 @@
 
         data() {
             return {
-                msg: 'VueVueVue'
+                msg: 'VueVueVues'
             }
         },
         components: {

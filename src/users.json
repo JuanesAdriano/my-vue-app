@@ -1,0 +1,22 @@
+[
+  {
+    "name":"Usuário 1",
+    "email":"u1@gmail.com",
+    "country":"Malásia"
+  },
+  {
+    "name":"Usuário 2",
+    "email":"u2@gmail.com",
+    "country":"Iunaited Isteites"
+  },
+  {
+    "name":"Usuário 3",
+    "email":"u3@gmail.com",
+    "country":"Quèm-nada"
+  },
+  {
+    "name":"Usuário 4",
+    "email":"u4@gmail.com",
+    "country":"Barzil"
+  }
+]
